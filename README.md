@@ -1,2 +1,2 @@
 # GroupMeAPI
-groupme APi codebase to mass add users by phone number
+GroupMe APi codebase to mass-add users by phone number
